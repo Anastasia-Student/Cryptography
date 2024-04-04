@@ -1,5 +1,3 @@
-import math
-from time import time
 BASE = 32
 
 # конвентирование
