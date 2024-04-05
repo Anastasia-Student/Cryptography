@@ -3,8 +3,7 @@
 
 The file *big_numbers.py* is an efficient implementation of a Big Integers library. It takes and returns integers in the hex format. Calculations are performed by working with arrays of remainders upon division by $2^{32}$ as this efficiently utilizes resources and algorithms work quickly. 
 
-It's important to note that the library is designed to work with unsigned fixed-length integers since it was developed for cryptographic purposes.
-
+It's important to note that the library is designed to work with unsigned fixed-length integers in little-endian format since it was developed for cryptographic purposes
 
 
 ## Examples
