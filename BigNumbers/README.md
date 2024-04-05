@@ -5,6 +5,8 @@ The file *big_numbers.py* is an efficient implementation of a Big Integers libra
 
 It's important to note that the library is designed to work with unsigned fixed-length integers in little-endian format since it was developed for cryptographic purposes.
 
+The program does not require installation of any additional libraries inasmuch as the implementation is done from the ground up.
+
 
 ## Examples
 
