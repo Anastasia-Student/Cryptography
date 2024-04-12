@@ -1,2 +1,2 @@
-# Cryptology
+# Cryptography
 Implementation of some algorithms
